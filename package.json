@@ -1,0 +1,31 @@
+{
+  "name": "nuxt-handsontable",
+  "version": "1.0.0",
+  "description": "prueba nuxt con handsontable",
+  "author": "Victor Marval",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@handsontable/vue": "^4.0.0",
+    "cross-env": "^5.2.0",
+    "handsontable": "^7.0.3",
+    "nuxt": "^2.4.0",
+    "ts-node": "^8.2.0",
+    "vue-property-decorator": "^8.1.1"
+  },
+  "devDependencies": {
+    "@nuxt/typescript": "^2.8.1",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "nodemon": "^1.18.9",
+    "vue-jest": "^3.0.3"
+  }
+}
