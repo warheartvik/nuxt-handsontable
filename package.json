@@ -14,7 +14,7 @@
   "dependencies": {
     "@handsontable/vue": "^4.0.0",
     "cross-env": "^5.2.0",
-    "handsontable": "^7.0.3",
+    "handsontable": "^10.0.0",
     "nuxt": "^2.4.0",
     "ts-node": "^8.2.0",
     "vue-property-decorator": "^8.1.1"
